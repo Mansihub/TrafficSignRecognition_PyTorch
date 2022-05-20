@@ -1,0 +1,8 @@
+Traffic-sign recognition (TSR) is a technology by which a vehicle is able to recognize the traffic signs put on the road e.g. "speed limit" or "children" or "turn ahead". 
+This is part of the features collectively called ADAS. 
+The technology is being developed by a variety of automotive suppliers
+
+Traffic signs can be analyzed using forward-facing cameras in many modern cars, vehicles and trucks.
+One of the basic use cases of a traffic-sign recognition system is for speed limits. 
+Most of the GPS data would procure speed information, but additional speed limit traffic signs can also be used to extract information and display it in the dashboard of the car to alert the driver about the road sign. 
+This is an advanced driver-assistance feature available in most high-end cars, mainly in European vehicles.
